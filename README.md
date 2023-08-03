@@ -2,7 +2,7 @@
 
 ## Scenario:
 
-The objective of this project is to build a breast cancer detection system on CNNs. The system will be trained on a dataset of breast tissue images that have been labeled as either benign or malignant. The system will then be able to classify new breast tissue images as either benign or malignant.
+You have been hired by a pharmaceutical company. Your task is to first read and perform exploratory data analysis on the given dataset. Then you need to use 2 CNN models in order to detect the presence of invasive ductal carcinoma (IDC) within the provided samples and highlight them. You must also derive inferences on accuracy and other metrics obtained.
 
 ## Project Objective:
 
